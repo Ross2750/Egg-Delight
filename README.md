@@ -43,5 +43,4 @@ No, you cannot put this mod on other mod hosting sites.
 ***
 
 ### Download Links
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/egg-delight)
-[Modrinth](https://modrinth.com/mod/egg-delight)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/egg-delight) | [Modrinth](https://modrinth.com/mod/egg-delight)
